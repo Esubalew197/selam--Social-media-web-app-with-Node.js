@@ -1,7 +1,9 @@
 const router = require("express").Router();
 
-router.get("/",(req,res)=>{
-    res.send("Hey its user route")
-})
+//update user
+//delete user
+//get user
+//follow user
+//unfollow user
 
 module.exports = router;
